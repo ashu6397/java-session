@@ -1,0 +1,4 @@
+rootProject.name = 'javaSession'
+include 'Encapsulation'
+include 'Inheritence'
+
